@@ -1,4 +1,4 @@
-//*Given a list, move all n's to the end*
+#Given a list, move all n's to the end
 
 def moveAllNToEnd(lst, n):
     pos = 0
